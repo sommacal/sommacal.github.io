@@ -235,7 +235,7 @@
         selector: '.video_presentacion'
     });
     GLightbox({
-        selector: '.galeria'
+        selector: '.galeria .foto'
     });
 
 })()

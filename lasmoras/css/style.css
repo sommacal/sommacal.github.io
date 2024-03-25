@@ -895,7 +895,14 @@ section {
   margin-bottom: 8px;
 }
 
-.galeria.play-btn::after {
+.galeria h3 {
+  margin-top: 30px;
+  text-align: center;
+}
+.galeria .box-container {
+  margin-top: 0;
+}
+.galeria .foto.play-btn::after {
   font-family: "bootstrap-icons";
   content: "\f4f3";
   font-size: 80px;
@@ -1260,7 +1267,6 @@ section {
 .box {
     list-style-type: none;
     float: left;
-    transform: translate3d(0, 40px, 0);
     transition: opacity 0.2s, transform 0.35s;
 }
 
