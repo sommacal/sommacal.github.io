@@ -1,0 +1,2 @@
+catadevinos.apk
+version 1.0.4
