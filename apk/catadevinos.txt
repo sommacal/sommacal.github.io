@@ -1,2 +1,4 @@
-catadevinos.apk
-version 1.0.4
+{
+    "app": "catadevinos.apk",
+    "version": "1.0.4"
+}
