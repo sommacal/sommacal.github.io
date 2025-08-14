@@ -1,0 +1,34 @@
+Política de Privacidad – Vinitos
+
+Última actualización: 2025-08-12
+
+Para las versiones 1.*
+
+1. Información del usuario
+
+    * Esta aplicación no recopila, almacena ni solicita datos personales del usuario.
+    * No se requiere registro ni ingreso de información identificable.
+
+2. Uso de la información
+
+    * La app funciona completamente de manera local en el dispositivo.
+    * No se utiliza ninguna base de datos en la nube ni se realiza sincronización remota.
+
+3. Publicidad
+
+    * La app puede mostrar anuncios mediante plataformas de terceros (como AdMob).
+    * Estos anuncios no están personalizados ni vinculados a datos personales.
+    * Los usuarios pueden eliminar la publicidad mediante una suscripción opcional.
+
+4. Seguridad
+
+    Al no recopilar datos personales ni sensibles, no se almacenan ni procesan datos que requieran medidas adicionales de seguridad.
+
+5. Cambios en la política
+
+    * Nos reservamos el derecho de actualizar esta política.
+    * Cualquier cambio será informado dentro de la app.
+
+6. Contacto
+
+    Para consultas sobre esta política, puedes escribirnos a: [vinitos@sommacal.com.ar]
