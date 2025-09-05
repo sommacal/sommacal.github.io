@@ -1,0 +1,51 @@
+Política de Privacidad – Vinitos
+
+Última actualización: 2025-08-12
+
+Para las versiones 2.* en desarrollo
+
+1. Información que recopilamos
+
+    Recopilamos los siguientes datos para mejorar tu experiencia:
+
+    * Información del dispositivo (modelo, sistema operativo, idioma)
+    * Preferencias de usuario (vinos favoritos, historial de búsqueda)
+    * Datos de uso (interacciones dentro de la app)
+    * Si se habilita, ubicación aproximada para sugerencias regionales
+
+2. Uso de la información
+
+    Utilizamos tus datos para:
+
+    * Personalizar recomendaciones de vinos
+    * Mejorar la funcionalidad y rendimiento de la app
+    * Mostrar anuncios relevantes (si aplica)
+    * Enviar notificaciones sobre novedades o promociones (si el usuario lo permite)
+
+3. Compartir con terceros
+
+    Podemos compartir datos con:
+
+    * Proveedores de servicios de análisis (como Firebase Analytics)
+    * Plataformas publicitarias (como AdMob), solo con datos no identificables
+    * No compartimos datos personales con bodegas ni terceros sin tu consentimiento
+
+4. Seguridad
+
+    Implementamos medidas técnicas para proteger tus datos, incluyendo cifrado y acceso restringido.
+
+5. Derechos del usuario
+
+    Puedes:
+
+    * Solicitar acceso o eliminación de tus datos
+    * Revocar el consentimiento para notificaciones o publicidad personalizada
+
+6. Cambios en la política
+
+    * Nos reservamos el derecho de actualizar esta política.
+    * Cualquier cambio será informado dentro de la app.
+
+7. Contacto
+
+    Para consultas sobre esta política, contáctanos en: [vinitos@sommacal.com.ar]

@@ -16,9 +16,8 @@ Para las versiones 1.*
 
 3. Publicidad
 
-    * La app puede mostrar anuncios mediante plataformas de terceros (como AdMob).
+    * La app muestra anuncios mediante plataformas de terceros (como AdMob).
     * Estos anuncios no están personalizados ni vinculados a datos personales.
-    * Los usuarios pueden eliminar la publicidad mediante una suscripción opcional.
 
 4. Seguridad
 
